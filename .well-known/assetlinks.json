@@ -1,1 +1,15 @@
-[]
+[
+    {
+      "relation" : [
+        "delegate_permission/common.handle_all_urls",
+        "delegate_permission/common.get_login_creds"
+      ],
+      "target" : {
+        "namespace" : "android_app",
+        "package_name" : "com.blackberry.mypasskey",
+        "sha256_cert_fingerprints" : [
+            "4D:DE:4B:61:C1:8D:75:C4:28:34:DA:39:D0:96:5E:7F:6E:0E:95:29:8E:A8:78:CE:4D:48:1F:DE:F1:70:0A:E8"
+        ]
+      }
+    }
+  ]
